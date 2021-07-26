@@ -1,9 +1,9 @@
 {
 	"name": "user_vk_bot",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.js",
 	"license": "MIT",
-	"repository": "https://github.com/RusAnonym/user-vk-bot",
+	"repository": "https://github.com/Lavrik17/vk_stikers_bot",
 	"scripts": {
 		"build": "tsc -p tsconfig.json",
 		"start": "npm run build && cd dist && node main",
